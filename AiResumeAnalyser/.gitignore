@@ -1,0 +1,20 @@
+# Visual Studio temporary files
+.vs/
+
+# Build output
+bin/
+obj/
+
+# User secrets (API keys, local dev config)
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Rider / VS Code / other IDE files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node/npm files if any
+node_modules/

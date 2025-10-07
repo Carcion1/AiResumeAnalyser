@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiResumeAnalyser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90425a7fa9b27c383902a9527c831852c4789285")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiResumeAnalyser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiResumeAnalyser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
